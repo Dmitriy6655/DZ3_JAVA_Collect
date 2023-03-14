@@ -1,4 +1,4 @@
-package DZ3_JAVA_Collections;
+//package DZ3_JAVA_Collections;
 
 //Пусть дан произвольный список целых чисел, удалить из него чётные числа
 

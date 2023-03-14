@@ -1,6 +1,6 @@
 //Реализовать алгоритм сортировки слиянием
 
-package DZ3_JAVA_Collections;
+//package DZ3_JAVA_Collections;
 public class Task1 {
 
     public static void main(String[] args) {

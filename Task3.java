@@ -1,4 +1,4 @@
-package DZ3_JAVA_Collections;
+//package DZ3_JAVA_Collections;
 
 //Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка.
 
